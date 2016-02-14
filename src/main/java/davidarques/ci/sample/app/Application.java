@@ -10,6 +10,6 @@ public class Application {
 
 		SpringApplication.run(Application.class, args);
 
-        System.out.println("***************minimal changes");
+        System.out.println("***************minimal changes  ");
 	}
 }
